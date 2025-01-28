@@ -1,1 +1,1 @@
-**deploy:-https://euphonious-kitsune-096d2d.netlify.app/**
+**deploy:-**http://candid-macaron-f7484d.netlify.app/
